@@ -1,4 +1,4 @@
-# MNIST
+# Image Classification on MNIST dataset by Logistic Regression
 
 In this study, it was classified a given image of a handwritten digit with single-label multi-class logistic regression model in the neural network.
 
