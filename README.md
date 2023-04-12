@@ -4,10 +4,16 @@ In this study, it was classified a given image of a handwritten digit with singl
 
 **You can reach the details from my personal accounts:**
 
-[My article of Image Classification](https://salmanselen.medium.com/image-classification-on-mnist-dataset-by-logistic-regression-b159d62f3c06)
-
 [My article of Digit Recognition](https://salmanselen.medium.com/cnn-modeli-ile-rakam-tan%C4%B1ma-4804099099c3)
 
-[Kaggle](https://www.kaggle.com/code/selensalman)
+[My project of Digit Recognition in Kaggle](https://www.kaggle.com/code/selensalman/digit-recognize-with-cnn)
+
+[My article of Image Classification](https://salmanselen.medium.com/image-classification-on-mnist-dataset-by-logistic-regression-b159d62f3c06)
+
+[My project of Image Classification in Kaggle](https://www.kaggle.com/code/selensalman/mnist-for-logistic-regression-model)
+
+
+
+
 
 
